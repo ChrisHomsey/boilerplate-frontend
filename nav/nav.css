@@ -81,7 +81,7 @@ nav {
     color: #333;
     font-weight: bold;
 }
-.side-bar > a:hover {
+.side-bar > .nav-menu > a:hover {
     color: #757F9A;
 }
 
